@@ -11,5 +11,7 @@
     "autoload": {
         "psr-4": { "Rivsen\\Demo\\": "src" }
     },
-    "require": {}
+    "require": {},
+    
+    "minimum-stability": "dev"
 }
