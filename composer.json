@@ -3,8 +3,8 @@
 
     "repositories": [
         {
-            "type": "composer",
-            "url": "https://packagist.org/packages/guruiqin/hello-world"
+            "type": "vcs",
+            "url": "https://github.com/katncandix2/Composer.git"
         }
     ],
     "description": "this is a hello world repo for composer.",
